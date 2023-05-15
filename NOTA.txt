@@ -1,0 +1,2 @@
+Para ejecutar los casos:
+	Con el terminal ubicarse en el proyecto y ejecutar npm run cypress:runner
